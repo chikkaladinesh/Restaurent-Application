@@ -1,0 +1,72 @@
+{
+  "posts": [
+    {
+      "id": 5,
+      "name": "Red Pappareez",
+      "email": "redpappareez@reditt",
+      "mobile": "909989800",
+      "address": "Ashley street, Block 9, Gwalior",
+      "services": "Tacos, Mexican food"
+    },
+    {
+      "id": 6,
+      "name": "Vantillu",
+      "email": "vantillu@gmail.com",
+      "mobile": "09090990",
+      "address": "Glenfiled sector 90, Sabbavaram",
+      "services": "uthappam"
+    },
+    {
+      "id": 7,
+      "name": "Ratnam",
+      "email": "ratnam@gmail",
+      "mobile": "457878",
+      "address": "tyson street, 45-33",
+      "services": null
+    },
+    {
+      "id": 8,
+      "name": "Subbayya Hotel",
+      "email": "subbayya@reddit",
+      "mobile": "45449099",
+      "address": "Yerragadda, Colombia",
+      "services": "Non Vegs"
+    },
+    {
+      "id": 9,
+      "name": "Dazzle Dine",
+      "email": "dazzledine@gmail.com",
+      "mobile": "7768785656",
+      "address": "45-123, Six Sage colony, Rentachintali",
+      "services": ""
+    },
+    {
+      "id": 10,
+      "name": "Dazzle Diner",
+      "email": "dazzledine@gmail.com",
+      "mobile": "7768785656",
+      "address": "45-123, Six Sage colony, Rentachintali",
+      "services": ""
+    }
+  ],
+  "Signup": [
+    {
+      "name": "Denesh",
+      "mobile": "3567567567",
+      "email": "Denesh@gmail.com",
+      "password": "454567",
+      "id": 1
+    },
+    {
+      "name": "FridaFry",
+      "mobile": "878799898",
+      "email": "fidadry@gmail.com",
+      "password": "1100",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
